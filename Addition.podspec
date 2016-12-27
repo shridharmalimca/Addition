@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Addition"
-  s.version      = "0.0.3"
-  s.summary      = "Desc"
+  s.version      = "0.0.5"
+  s.summary      = "Description"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -62,7 +62,7 @@ Pod::Spec.new do |s|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-   s.platform     = :ios, "9.0"
+   s.platform     = :ios, "10.0"
   # s.platform     = :ios, "5.0"
 
   #  When using multiple platforms
