@@ -8,6 +8,8 @@
 
 import UIKit
 
-class Addition: NSObject {
-
+open class Addition {
+    open func printHello() {
+        print("Hello")
+    }
 }
